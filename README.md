@@ -1,6 +1,6 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project is a simple project created to demonstrate how to ### run junit5 suites with maven. ### It also has information to create different profiles and run the same using Maven command.
 
 ### What is this repository for? ###
 
@@ -9,13 +9,12 @@ This README would normally document whatever steps are necessary to get your app
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
 * Deployment instructions
+Use normal git commands to clone
+
+* How to run tests
+To run partial tests : mvn clean test -PpartialSuite -DprofileIdEnabled=true
+To run full suite : mvn clean test -PfullSuite -DprofileIdEnabled=true
 
 ### Contribution guidelines ###
 
