@@ -1,0 +1,4 @@
+com/junit5/maven/AppTest.class
+com/junit5/maven/suite/PartialSuite.class
+com/junit5/maven/GoogleHealthCheckTest.class
+com/junit5/maven/suite/FullSuite.class
