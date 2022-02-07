@@ -9,7 +9,7 @@ import org.junit.jupiter.api.Test;
 
 /**
  * 
- * @author spala
+ * @author sadhup
  * This class is to just verify health checks of external sites.
  */
 

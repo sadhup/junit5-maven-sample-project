@@ -5,8 +5,11 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 import org.junit.jupiter.api.*;
 
 /**
- * Unit test for simple App.
+ * @author sadhup
+ *
+ * Unit test for testing purpose
  */
+ 
 public class AppTest 
 {
   
